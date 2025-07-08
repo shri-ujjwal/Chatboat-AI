@@ -2,7 +2,7 @@
 
 A beautiful, modern AI chatbot built with React, TailwindCSS, and OpenAI's GPT API. Features a sleek gradient design, real-time chat interface, and intelligent error handling.
 
-![Chatbot Preview](https://img.shields.io/badge/React-18+-blue?style=for-the-badge&logo=react)
+![Chatbot Preview](https://img.shields.io/badge/React-19+-blue?style=for-the-badge&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3+-06B6D4?style=for-the-badge&logo=tailwindcss)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--3.5-412991?style=for-the-badge&logo=openai)
 
